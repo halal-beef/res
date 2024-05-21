@@ -1,9 +1,5 @@
-| **Top view**                                                                                                   | **Bottom View**                                                                                                |
-|----------------------------------------------------------------------------------------------------------------|
-| hi | hi |
-| - Easiest                                                                                                      | - Easy                                             |                                                                                                                                                               |
-| - Quickest                                                                                                     | - Takes a little bit of time                      |                                                                                                                                      |
-| - Simple                                                                                                       | - Doable for most people                         |                                                              
-| - Lack of options in regards to OS version, language, edition, storage allocation | - Customizable in regards to OS version, language, edition, storage allocation |
-| [FFU Guide](/InstallWindows/FlashingFFU.md) | [Coming Soon!](/InstallWindows/InstallWindows-SurfaceDuo1.md) | [Manual Guide](/InstallWindows/InstallWindowsManually-SurfaceDuo1.md) |
 
+| Top View                             | Bottom View                          |
+| ------------------------------------ | ------------------------------------ |
+| <img src="[https://github.com/WOA-Project/SurfaceDuo-Guides/assets/3755345/c4fd0391-210a-4c31-8f03-7db2e634430c](https://github.com/halal-beef/HTC-HD7-Internals/blob/main/20240521_085601.jpg)" width="200">                                  | <img src="https://github.com/halal-beef/HTC-HD7-Internals/blob/main/20240521_085544.jpg" width="200">                  |
+---
